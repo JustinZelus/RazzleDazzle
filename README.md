@@ -1,3 +1,6 @@
+溫馨的開場，可參考用這種方式，需加上美工做的插畫。
+
+
 [![Open Source at IFTTT](http://ifttt.github.io/images/open-source-ifttt.svg)](http://ifttt.github.io)
 
 ![RazzleDazzle](./Example/Docs/razzledazzlebanner.jpg)
